@@ -1,5 +1,5 @@
 info:
-  description: Ryans Spring Cloud Samples
+  description: Ryans Spring Cloud Own Samples
   url: https://github.com/spring-cloud-samples
 eureka:
   client:
